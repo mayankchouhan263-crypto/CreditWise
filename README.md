@@ -192,5 +192,3 @@ cd web && gunicorn wsgi:application --bind 0.0.0.0:$PORT
 ## License
 
 This project is for educational purposes.
-
-> > > > > > > b751713 (Add ReadME)
