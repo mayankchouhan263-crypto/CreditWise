@@ -1,0 +1,6 @@
+django
+numpy
+scikit-learn
+joblib
+gunicorn
+whitenoise
