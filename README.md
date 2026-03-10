@@ -156,6 +156,18 @@ The model accepts real Indian rupee values:
 | DTI Ratio        | 0.05 – 0.90             |
 
 ---
+## 📊 Dataset
+
+The dataset used to train this model is publicly available on Kaggle:
+
+🔗 **[CreditWise Loan Approval Dataset — Kaggle](https://www.kaggle.com/datasets/mayankchouhan263/loan-approval-datasetrealistic-indian-rupee-data)**
+
+- 1,000,000 synthetic Indian loan applications
+- Realistic Indian rupee ranges (₹10,000 – ₹1,00,00,000 income)
+- 13 features including credit score, DTI ratio, collateral, employment status
+- Target: `Loan_Approved` (1 = Approved, 0 = Rejected)
+
+---
 
 ## Deployment
 
